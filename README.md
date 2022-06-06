@@ -1,5 +1,5 @@
 # Bowling
-Python-Based Bowling ScoreKeeper Program.
+## Python-Based Bowling ScoreKeeper Program.
 
 A couple of days ago, I interviewed a company. It went horrible. Don't get me wrong; it wasn't the company's fault. They were kind, reassuring, and patient.
 It was **me**. I was a nervous blubbering mess who wasted 20 minutes on *syntax* and kept flipflopping my solution every 5 seconds. I wasn't even able to show a solution to a relatively easy problem by the end.
